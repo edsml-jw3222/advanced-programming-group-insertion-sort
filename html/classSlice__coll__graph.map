@@ -1,0 +1,5 @@
+<map id="Slice" name="Slice">
+<area shape="rect" id="node1" title="A class derived from the Volume class, responsible for extracting a 2D slice from the volume data." alt="" coords="14,155,67,181"/>
+<area shape="rect" id="node2" href="$classVolume.html" title=" " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$classImage.html" title="A class representing a 2D image." alt="" coords="9,5,72,32"/>
+</map>

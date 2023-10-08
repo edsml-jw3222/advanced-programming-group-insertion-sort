@@ -1,0 +1,4 @@
+<map id="Filter" name="Filter">
+<area shape="rect" id="node1" title="A class for applying various 2D and 3D filters to Image and Volume objects." alt="" coords="9,80,64,107"/>
+<area shape="rect" id="node2" href="$classImage.html" title="A class representing a 2D image." alt="" coords="5,5,68,32"/>
+</map>

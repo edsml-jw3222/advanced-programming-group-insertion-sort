@@ -1,0 +1,5 @@
+<map id="Projection" name="Projection">
+<area shape="rect" id="node1" title="A class derived from the Volume class, responsible for applying intensity projection methods to the v..." alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node2" href="$classVolume.html" title=" " alt="" coords="13,80,84,107"/>
+<area shape="rect" id="node3" href="$classImage.html" title="A class representing a 2D image." alt="" coords="17,5,80,32"/>
+</map>
